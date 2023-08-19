@@ -44,8 +44,6 @@
   <div class="row">
     <div class="col-4">
      <div class="image-container"> <img src="https://i.ibb.co/zSznSM7/img1.png" alt="" />  </div>
-	<h3><i class="fa fa-heart-o" aria-hidden="true"></i></h3>
-	 <h2>NEW</h2>
 	  <h4>T-shirt</h4>
       <p>Price: $25.00</p>
 	  
@@ -56,9 +54,7 @@
 
     <div class="col-4">
      <div class="image-container"> <img src="https://i.ibb.co/C92dWbh/img2.png" alt="" />  </div>
-      <h3><i class="fa fa-heart-o" aria-hidden="true"></i></h3>
-	<h2>NEW</h2>
-	  <h4>T-shirt</h4>
+      <h4>T-shirt</h4>
       <p>Price: $25.00</p>
       <p>Shipping: $6.99</p>
 	  
@@ -68,9 +64,7 @@
 
     <div class="col-4">
      <div class="image-container"> <img src="https://i.ibb.co/9qNNw0j/img3.png" alt="" />   </div>
-      <h3><i class="fa fa-heart-o" aria-hidden="true"></i></h3>
-	<h2>NEW</h2>
-	  <h4>T-shirt</h4>
+      <h4>T-shirt</h4>
       <p>Price: $25.00</p>
       <p>Shipping: $6.99</p>
 	  <button class="orderButton" data-product="T-shirt 3"><i class="fa fa-shopping-basket" aria-hidden="true" data-product="T-shirt 3"></i></button>
@@ -79,9 +73,7 @@
 
     <div class="col-4">
      <div class="image-container"> <img src="https://i.ibb.co/3cxkrL9/img4.png" alt="" />   </div>
-     <h3><i class="fa fa-heart-o" aria-hidden="true"></i></h3>
-	 <h2>NEW</h2>
-	  <h4>T-shirt</h4>
+      <h4>T-shirt</h4>
       <p>Price: $25.00</p>
       <p>Shipping: $6.99</p>
 	  <button class="orderButton" data-product="T-shirt 4"><i class="fa fa-shopping-basket" aria-hidden="true" data-product="T-shirt 4"></i></button>
@@ -92,9 +84,7 @@
   <div class="row">
     <div class="col-4">
      <div class="image-container"> <img src="https://i.ibb.co/wLMnLPK/img5.png" alt="" />   </div>
-      <h3><i class="fa fa-heart-o" aria-hidden="true"></i></h3>
-	<h2>NEW</h2>
-	  <h4>T-shirt</h4>
+      <h4>T-shirt</h4>
       <p>Price: $25.00</p>
       <p>Shipping: $6.99</p>
 	  <button class="orderButton" data-product="T-shirt 5"><i class="fa fa-shopping-basket" aria-hidden="true" data-product="T-shirt 5"></i></button>
@@ -103,9 +93,7 @@
 
     <div class="col-4">
      <div class="image-container"> <img src="https://i.ibb.co/4M5hPgR/img6.png" alt="" />   </div>
-      <h3><i class="fa fa-heart-o" aria-hidden="true"></i></h3>
-	<h2>NEW</h2>
-	  <h4>T-shirt</h4>
+      <h4>T-shirt</h4>
       <p>Price: $25.00</p>
       <p>Shipping: $6.99</p>
 	  <button class="orderButton" data-product="T-shirt 6"><i class="fa fa-shopping-basket" aria-hidden="true" data-product="T-shirt 6"></i></button>
@@ -114,9 +102,7 @@
 
     <div class="col-4">
      <div class="image-container"> <img src="https://i.ibb.co/9qNNw0j/img3.png" alt="" />    </div>
-      <h3><i class="fa fa-heart-o" aria-hidden="true"></i></h3>
-	<h2>NEW</h2>
-	  <h4>T-shirt</h4>
+      <h4>T-shirt</h4>
       <p>Price: $25.00</p>
       <p>Shipping: $6.99</p>
 	  <button class="orderButton" data-product="T-shirt 7"><i class="fa fa-shopping-basket" aria-hidden="true" data-product="T-shirt 7"></i></button>
@@ -125,9 +111,7 @@
 
     <div class="col-4">
      <div class="image-container"> <img src="https://i.ibb.co/MBNypwZ/img8.png" alt="" />   </div>
-      <h3><i class="fa fa-heart-o" aria-hidden="true"></i></h3>
-	<h2>NEW</h2>
-	  <h4>T-shirt</h4>
+      <h4>T-shirt</h4>
       <p>Price: $25.00</p>
       <p>Shipping: $6.99</p>
 	  <button class="orderButton" data-product="T-shirt 8"><i class="fa fa-shopping-basket" aria-hidden="true" data-product="T-shirt 8"></i></button>
